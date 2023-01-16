@@ -9,6 +9,6 @@ let agePrompt = prompt('How old are you?')
     age: agePrompt
  }
  console.log(user.name)
-//  console.log(user.surname)
-//  console.log(user.age)
+ console.log(user.surname)
+ console.log(user.age)
  
